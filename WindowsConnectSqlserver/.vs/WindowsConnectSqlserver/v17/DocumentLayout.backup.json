@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Winform\\Sql_code\\WindowsConnectSqlserver\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE375C68-8F8F-44EB-A452-A77E212D94E4}|WindowsConnectSqlserver\\WindowsConnectSqlserver.csproj|d:\\winform\\sql_code\\windowsconnectsqlserver\\windowsconnectsqlserver\\editform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE375C68-8F8F-44EB-A452-A77E212D94E4}|WindowsConnectSqlserver\\WindowsConnectSqlserver.csproj|solutionrelative:windowsconnectsqlserver\\editform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE375C68-8F8F-44EB-A452-A77E212D94E4}|WindowsConnectSqlserver\\WindowsConnectSqlserver.csproj|d:\\winform\\sql_code\\windowsconnectsqlserver\\windowsconnectsqlserver\\editform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE375C68-8F8F-44EB-A452-A77E212D94E4}|WindowsConnectSqlserver\\WindowsConnectSqlserver.csproj|solutionrelative:windowsconnectsqlserver\\editform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE375C68-8F8F-44EB-A452-A77E212D94E4}|WindowsConnectSqlserver\\WindowsConnectSqlserver.csproj|d:\\winform\\sql_code\\windowsconnectsqlserver\\windowsconnectsqlserver\\index.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE375C68-8F8F-44EB-A452-A77E212D94E4}|WindowsConnectSqlserver\\WindowsConnectSqlserver.csproj|solutionrelative:windowsconnectsqlserver\\index.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE375C68-8F8F-44EB-A452-A77E212D94E4}|WindowsConnectSqlserver\\WindowsConnectSqlserver.csproj|d:\\winform\\sql_code\\windowsconnectsqlserver\\windowsconnectsqlserver\\index.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE375C68-8F8F-44EB-A452-A77E212D94E4}|WindowsConnectSqlserver\\WindowsConnectSqlserver.csproj|solutionrelative:windowsconnectsqlserver\\index.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE375C68-8F8F-44EB-A452-A77E212D94E4}|WindowsConnectSqlserver\\WindowsConnectSqlserver.csproj|d:\\winform\\sql_code\\windowsconnectsqlserver\\windowsconnectsqlserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE375C68-8F8F-44EB-A452-A77E212D94E4}|WindowsConnectSqlserver\\WindowsConnectSqlserver.csproj|solutionrelative:windowsconnectsqlserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE375C68-8F8F-44EB-A452-A77E212D94E4}|WindowsConnectSqlserver\\WindowsConnectSqlserver.csproj|d:\\winform\\sql_code\\windowsconnectsqlserver\\windowsconnectsqlserver\\usertmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE375C68-8F8F-44EB-A452-A77E212D94E4}|WindowsConnectSqlserver\\WindowsConnectSqlserver.csproj|solutionrelative:windowsconnectsqlserver\\usertmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE375C68-8F8F-44EB-A452-A77E212D94E4}|WindowsConnectSqlserver\\WindowsConnectSqlserver.csproj|d:\\winform\\sql_code\\windowsconnectsqlserver\\windowsconnectsqlserver\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE375C68-8F8F-44EB-A452-A77E212D94E4}|WindowsConnectSqlserver\\WindowsConnectSqlserver.csproj|solutionrelative:windowsconnectsqlserver\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE375C68-8F8F-44EB-A452-A77E212D94E4}|WindowsConnectSqlserver\\WindowsConnectSqlserver.csproj|d:\\winform\\sql_code\\windowsconnectsqlserver\\windowsconnectsqlserver\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE375C68-8F8F-44EB-A452-A77E212D94E4}|WindowsConnectSqlserver\\WindowsConnectSqlserver.csproj|solutionrelative:windowsconnectsqlserver\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE375C68-8F8F-44EB-A452-A77E212D94E4}|WindowsConnectSqlserver\\WindowsConnectSqlserver.csproj|d:\\winform\\sql_code\\windowsconnectsqlserver\\windowsconnectsqlserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE375C68-8F8F-44EB-A452-A77E212D94E4}|WindowsConnectSqlserver\\WindowsConnectSqlserver.csproj|solutionrelative:windowsconnectsqlserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cs",
+              "DocumentMoniker": "D:\\Winform\\Sql_code\\WindowsConnectSqlserver\\WindowsConnectSqlserver\\Index.cs",
+              "RelativeDocumentMoniker": "WindowsConnectSqlserver\\Index.cs",
+              "ToolTip": "D:\\Winform\\Sql_code\\WindowsConnectSqlserver\\WindowsConnectSqlserver\\Index.cs",
+              "RelativeToolTip": "WindowsConnectSqlserver\\Index.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwCUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T06:20:59.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\Winform\\Sql_code\\WindowsConnectSqlserver\\WindowsConnectSqlserver\\Index.cs",
+              "RelativeDocumentMoniker": "WindowsConnectSqlserver\\Index.cs",
+              "ToolTip": "D:\\Winform\\Sql_code\\WindowsConnectSqlserver\\WindowsConnectSqlserver\\Index.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "WindowsConnectSqlserver\\Index.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T06:24:28.466Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\Winform\\Sql_code\\WindowsConnectSqlserver\\WindowsConnectSqlserver\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsConnectSqlserver\\Form1.cs",
+              "ToolTip": "D:\\Winform\\Sql_code\\WindowsConnectSqlserver\\WindowsConnectSqlserver\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "WindowsConnectSqlserver\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T06:24:25.315Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserTModel.cs",
+              "DocumentMoniker": "D:\\Winform\\Sql_code\\WindowsConnectSqlserver\\WindowsConnectSqlserver\\UserTModel.cs",
+              "RelativeDocumentMoniker": "WindowsConnectSqlserver\\UserTModel.cs",
+              "ToolTip": "D:\\Winform\\Sql_code\\WindowsConnectSqlserver\\WindowsConnectSqlserver\\UserTModel.cs",
+              "RelativeToolTip": "WindowsConnectSqlserver\\UserTModel.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAxwBQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T06:30:01.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\Winform\\Sql_code\\WindowsConnectSqlserver\\WindowsConnectSqlserver\\EditForm.cs",
+              "RelativeDocumentMoniker": "WindowsConnectSqlserver\\EditForm.cs",
+              "ToolTip": "D:\\Winform\\Sql_code\\WindowsConnectSqlserver\\WindowsConnectSqlserver\\EditForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "WindowsConnectSqlserver\\EditForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T04:34:06.866Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EditForm.cs",
+              "DocumentMoniker": "D:\\Winform\\Sql_code\\WindowsConnectSqlserver\\WindowsConnectSqlserver\\EditForm.cs",
+              "RelativeDocumentMoniker": "WindowsConnectSqlserver\\EditForm.cs",
+              "ToolTip": "D:\\Winform\\Sql_code\\WindowsConnectSqlserver\\WindowsConnectSqlserver\\EditForm.cs",
+              "RelativeToolTip": "WindowsConnectSqlserver\\EditForm.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAAD8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T04:34:50.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\Winform\\Sql_code\\WindowsConnectSqlserver\\WindowsConnectSqlserver\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "WindowsConnectSqlserver\\RegisterForm.cs",
+              "ToolTip": "D:\\Winform\\Sql_code\\WindowsConnectSqlserver\\WindowsConnectSqlserver\\RegisterForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "WindowsConnectSqlserver\\RegisterForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T08:41:39.788Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Winform\\Sql_code\\WindowsConnectSqlserver\\WindowsConnectSqlserver\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsConnectSqlserver\\Program.cs",
+              "ToolTip": "D:\\Winform\\Sql_code\\WindowsConnectSqlserver\\WindowsConnectSqlserver\\Program.cs",
+              "RelativeToolTip": "WindowsConnectSqlserver\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwBIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T06:34:10.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "D:\\Winform\\Sql_code\\WindowsConnectSqlserver\\WindowsConnectSqlserver\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "WindowsConnectSqlserver\\RegisterForm.cs",
+              "ToolTip": "D:\\Winform\\Sql_code\\WindowsConnectSqlserver\\WindowsConnectSqlserver\\RegisterForm.cs",
+              "RelativeToolTip": "WindowsConnectSqlserver\\RegisterForm.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAIwEEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T08:44:24.45Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
